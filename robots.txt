@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /secreto/
+
+Sitemap: https://davizeira238.github.io/projeto-web/sitemap.xml
